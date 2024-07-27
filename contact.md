@@ -3,4 +3,4 @@ layout: page
 title: "Contact"
 permalink: /contact
 ---
-See linkedin.com/in/krush
+See [LinkedIn](https://www.linkedin.com/in/krush) for professional contact information.
